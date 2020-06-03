@@ -51,4 +51,4 @@ def new_search(request):
         'search': search,
         'final_postings': final_postings,
     }
-    return render(request, 'craiglistscrapper/new_Search.html', data_for_frontend)
+    return render(request, 'craiglistscrapper/new_search.html', data_for_frontend)
