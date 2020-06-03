@@ -1,0 +1,14 @@
+ .card {
+    height: 400px;
+    overflow: hidden;
+}
+
+.card-content {
+    height: 100px;
+    overflow: hidden;
+}
+
+.card-action {
+    height: 50px;
+    overflow: hidden
+}
